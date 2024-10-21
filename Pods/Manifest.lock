@@ -1,0 +1,26 @@
+PODS:
+  - Charts (4.1.0):
+    - Charts/Core (= 4.1.0)
+  - Charts/Core (4.1.0):
+    - SwiftAlgorithms (~> 1.0)
+  - ProgressIndicatorView (1.0.0)
+  - SwiftAlgorithms (1.0.0)
+
+DEPENDENCIES:
+  - Charts
+  - ProgressIndicatorView
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - ProgressIndicatorView
+    - SwiftAlgorithms
+
+SPEC CHECKSUMS:
+  Charts: ce0768268078eee0336f122c3c4ca248e4e204c5
+  ProgressIndicatorView: f37b4bdc70132ab6398da55c674c72d86d757f0e
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+
+PODFILE CHECKSUM: ff2527541511158b4fa1a52bed9875cd4ce2a4b9
+
+COCOAPODS: 1.15.2
